@@ -21,4 +21,5 @@ This will replace the default Windows 11 wallpapers with Windows Server 2025 one
 <img src="https://cdn.neowin.com/news/images/uploaded/2024/02/1708634653_img0.jpg"  />
 
 **Dark mode wallpaper**
+
 <img src="https://cdn.neowin.com/news/images/uploaded/2024/02/1708634661_img19.jpg"  />
